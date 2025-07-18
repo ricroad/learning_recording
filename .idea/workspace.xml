@@ -48,7 +48,33 @@
       <recent name="D:\learning_recording\heima\basic-code" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LeapYearChecker">
+    <configuration name="FactorialCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guigu_01.FactorialCalculator" />
+      <module name="guigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guigu_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYearChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guigu_01.LeapYearChecker" />
+      <module name="guigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guigu_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="helloword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="guigu_01.helloword2" />
       <module name="guigu" />
@@ -64,6 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYearChecker" />
+        <item itemvalue="Application.FactorialCalculator" />
         <item itemvalue="Application.helloword2" />
       </list>
     </recent_temporary>
